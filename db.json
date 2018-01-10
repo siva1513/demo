@@ -12,7 +12,7 @@
     "name": "typicode"
   },
   "stores": [
-    { "id": 1, "name": "Store 1"},
+    { "id": 1, "name": "Store 1","img_url":"https://ak0.scstatic.net/1/cdn2-cont7.sweetcouch.com/141826334026167178-buzzer-with-crayon-english-drawing-book.jpg"},
     { "id": 2, "name": "Store 2"},
     { "id": 3, "name": "Store 3"},
     { "id": 4, "name": "Store 4"},
