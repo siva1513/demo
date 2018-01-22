@@ -40,6 +40,80 @@
           "enrichment":1
         }
       ]
+    },
+    { 
+      "id": "0372",
+      "title": "Kids Rhymes",
+      "img_url": "https://ak0.scstatic.net/1/cdn2-cont7.sweetcouch.com/141826334026167178-buzzer-with-crayon-english-drawing-book.jpg",
+      "type": "PDF",
+      "author": "",
+      "is_favourite":0,
+      "last_opened_date":"21-01 | 06:20 PM",
+      "total_pages":"150",
+      "read_pages": "38",
+      "tags": [
+        {
+          "page_no":"8",
+          "notes":0,
+          "drawing":0,
+          "enrichment":1
+        },
+        {
+          "page_no":"26",
+          "notes":0,
+          "drawing":1,
+          "enrichment":1
+        },
+        {
+          "page_no":"40",
+          "notes":1,
+          "drawing":0,
+          "enrichment":0
+        },
+        {
+          "page_no":"70",
+          "notes":0,
+          "drawing":1,
+          "enrichment":0
+        }
+      ]
+    },
+    { 
+      "id": "0373",
+      "title": "Kids Games",
+      "img_url": "https://ak0.scstatic.net/1/cdn2-cont7.sweetcouch.com/141826334026167178-buzzer-with-crayon-english-drawing-book.jpg",
+      "type": "EL",
+      "author": "",
+      "is_favourite":1,
+      "last_opened_date":"22-01 | 09:30 AM",
+      "total_pages":"180",
+      "read_pages": "80",
+      "tags": [
+        {
+          "page_no":"5",
+          "notes":1,
+          "drawing":1,
+          "enrichment":1
+        },
+        {
+          "page_no":"20",
+          "notes":1,
+          "drawing":0,
+          "enrichment":0
+        },
+        {
+          "page_no":"30",
+          "notes":0,
+          "drawing":1,
+          "enrichment":0
+        },
+        {
+          "page_no":"80",
+          "notes":0,
+          "drawing":0,
+          "enrichment":1
+        }
+      ]
     }
   ]
 }
